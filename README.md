@@ -10,22 +10,10 @@ Check out our project [Write-up](https://docs.google.com/presentation/d/1RCK63lL
 * 3_[EDA & Visualization](https://github.com/leona-lu/Reconstructing_London/tree/main/Graph) - Graphs and File for Exploratory Data Analysis
 * 3_[Submission](https://github.com/leona-lu/Reconstructing_London/tree/main/Test) - All Submission Files
 
-## Project Refrences 
-### GDBoost
-[1] Jockers, Matthew. Text Analysis with R for Students of Literature. Springer. 2014.
+## Code Refrences 
+[1] XGBoost parameters. XGBoost Parameters - xgboost 1.6.0-dev documentation. (n.d.). Retrieved December 5, 2021, from     https://xgboost.readthedocs.io/en/latest/parameter.html. 
 
-### Logistic Regression
-[2] Socher, Richard. "CS 224D: Deep Learning for NLP", Lecture Notes (https://cs224d.stanford.edu/lecture_notes/notes2.pdf)
+[2] Jerry Friedman. "Greedy function approximation: A gradient boosting machine". 1999.
 
-Kulshrestha, Ria. “NLP 101: Word2Vec — Skip-gram and CBOW”. Towards Data Science. 2019.
+[3] XGBoost parameters. XGBoost Parameters - xgboost 1.6.0-dev documentation. (n.d.). Retrieved December 5, 2021, from https://xgboost.readthedocs.io/en/latest/parameter.html. 
 
-[3] Garg, N., Schiebinger, L., Jurafsky, D., & Zou, J. (2018). Word embeddings quantify 100 years of gender and ethnic stereotypes. Proceedings of the National Academy of Sciences, 115(16), E3635–E3644. https://doi.org/10.1073/pnas.1720347115
-
-[4] Charu C. Aggarwal. 2018. Neural Networks and Deep Learning: A Textbook (1st. ed.). Springer Publishing Company, Incorporated.
-
-[5] Prabhakaran, Selva. “Cosine Similarity – Understanding the math and how it works (with python codes)”. Machine Learning +. 2018.
-
-### Naive Bayes
-[6] Jockers, Matthew. Text Analysis with R for Students of Literature. Springer. 2014.
-
-[7] Silge, Julia and David Robinson. “Sentiment analysis with tidy data”. Text Mining with Tidy Approach. 
